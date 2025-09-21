@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\obj\Debug\net8.0\ConditionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\obj\Debug\net8.0\ConditionExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\obj\Debug\net8.0\ConditionExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\obj\Debug\net8.0\ConditionExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\bin\Debug\net8.0\ConditionExample.exe
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\bin\Debug\net8.0\ConditionExample.deps.json
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\bin\Debug\net8.0\ConditionExample.runtimeconfig.json
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\bin\Debug\net8.0\ConditionExample.dll
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\bin\Debug\net8.0\ConditionExample.pdb
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\obj\Debug\net8.0\ConditionExample.dll
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\obj\Debug\net8.0\refint\ConditionExample.dll
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\obj\Debug\net8.0\ConditionExample.pdb
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\obj\Debug\net8.0\ConditionExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\ConditionExample\ConditionExample\obj\Debug\net8.0\ref\ConditionExample.dll
