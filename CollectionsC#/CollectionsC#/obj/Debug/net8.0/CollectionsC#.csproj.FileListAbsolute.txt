@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\bin\Debug\net8.0\CollectionsC#.exe
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\bin\Debug\net8.0\CollectionsC#.deps.json
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\bin\Debug\net8.0\CollectionsC#.runtimeconfig.json
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\bin\Debug\net8.0\CollectionsC#.dll
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\bin\Debug\net8.0\CollectionsC#.pdb
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\obj\Debug\net8.0\CollectionsC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\obj\Debug\net8.0\CollectionsC#.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\obj\Debug\net8.0\CollectionsC#.AssemblyInfo.cs
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\obj\Debug\net8.0\CollectionsC#.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\obj\Debug\net8.0\CollectionsC#.dll
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\obj\Debug\net8.0\refint\CollectionsC#.dll
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\obj\Debug\net8.0\CollectionsC#.pdb
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\obj\Debug\net8.0\CollectionsC#.genruntimeconfig.cache
+C:\Users\sabir\Desktop\CollectionsC#\CollectionsC#\obj\Debug\net8.0\ref\CollectionsC#.dll

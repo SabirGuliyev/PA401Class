@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\bin\Debug\net8.0\MultiThreadingProgramming.exe
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\bin\Debug\net8.0\MultiThreadingProgramming.deps.json
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\bin\Debug\net8.0\MultiThreadingProgramming.runtimeconfig.json
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\bin\Debug\net8.0\MultiThreadingProgramming.dll
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\bin\Debug\net8.0\MultiThreadingProgramming.pdb
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\obj\Debug\net8.0\MultiThreadingProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\obj\Debug\net8.0\MultiThreadingProgramming.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\obj\Debug\net8.0\MultiThreadingProgramming.AssemblyInfo.cs
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\obj\Debug\net8.0\MultiThreadingProgramming.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\obj\Debug\net8.0\MultiThreadingProgramming.dll
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\obj\Debug\net8.0\refint\MultiThreadingProgramming.dll
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\obj\Debug\net8.0\MultiThreadingProgramming.pdb
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\obj\Debug\net8.0\MultiThreadingProgramming.genruntimeconfig.cache
+C:\Users\sabir\Desktop\MultiThreadingProgramming\MultiThreadingProgramming\obj\Debug\net8.0\ref\MultiThreadingProgramming.dll
